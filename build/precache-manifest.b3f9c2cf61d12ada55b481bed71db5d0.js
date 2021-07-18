@@ -1,31 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "57396e83b9da75bfc213eba5b4f664c7",
+    "revision": "1e7c343882d300129c511758295e5c6f",
     "url": "./index.html"
   },
   {
-    "revision": "522962b1e853987dbfce",
+    "revision": "4db32883199ae3f1551c",
     "url": "./static/css/2.35f3bf0f.chunk.css"
   },
   {
-    "revision": "f7e212aebcc8c576f56f",
-    "url": "./static/css/main.b3992dec.chunk.css"
+    "revision": "9f2254306d25b7cd38ba",
+    "url": "./static/css/main.7ee9ff68.chunk.css"
   },
   {
-    "revision": "522962b1e853987dbfce",
-    "url": "./static/js/2.65d25a0f.chunk.js"
+    "revision": "4db32883199ae3f1551c",
+    "url": "./static/js/2.9a047ab4.chunk.js"
   },
   {
-    "revision": "f7e212aebcc8c576f56f",
-    "url": "./static/js/main.c36a8282.chunk.js"
+    "revision": "9f2254306d25b7cd38ba",
+    "url": "./static/js/main.481c8e05.chunk.js"
   },
   {
     "revision": "1b437403f16bd71edadb",
     "url": "./static/js/runtime-main.9d7e574d.js"
-  },
-  {
-    "revision": "bf35be1cd8c27b0e17431b854c48620c",
-    "url": "./static/media/AccessIcon.bf35be1c.svg"
   },
   {
     "revision": "e64fc9d01f0600a9faf13ce71c15d0ed",
@@ -50,10 +46,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "05bdf30b8aaa10683c19e73dd0c428da",
     "url": "./static/media/Gilroy-SemiBold.05bdf30b.ttf"
-  },
-  {
-    "revision": "882a2e96587d64f94d38e9824ed56174",
-    "url": "./static/media/MainIcon.882a2e96.svg"
   },
   {
     "revision": "6b0f2123870ccd0cfbb6edd650ff6f22",
@@ -160,7 +152,67 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/WC-Mano-Negra-Bta.d9521fb6.otf"
   },
   {
-    "revision": "2479093da930d26309f6745b1536c4a9",
-    "url": "./static/media/bg.2479093d.png"
+    "revision": "2e0596be67fb793e37069bc713ce3839",
+    "url": "./static/media/approval.2e0596be.svg"
+  },
+  {
+    "revision": "5d327ef6659c487263f9af8bb77441c2",
+    "url": "./static/media/bg.5d327ef6.png"
+  },
+  {
+    "revision": "747c0e9675a62d748a6427240fabd605",
+    "url": "./static/media/bg.747c0e96.png"
+  },
+  {
+    "revision": "57f683bc1131a33d8a0585a459f17960",
+    "url": "./static/media/death.57f683bc.svg"
+  },
+  {
+    "revision": "2453b731d63576a6281366f41374873f",
+    "url": "./static/media/gear.2453b731.png"
+  },
+  {
+    "revision": "ae88680f7ec2d766063c9611e40cd3f2",
+    "url": "./static/media/group.ae88680f.jpg"
+  },
+  {
+    "revision": "2d4443bc1dbb7cc6d5a53075cf12b874",
+    "url": "./static/media/ic_door.2d4443bc.svg"
+  },
+  {
+    "revision": "e1f83fe01958d8a7b23157391a667b13",
+    "url": "./static/media/ic_likes.e1f83fe0.svg"
+  },
+  {
+    "revision": "b390be996aaf9883edf9964b4325c2aa",
+    "url": "./static/media/ic_msg.b390be99.png"
+  },
+  {
+    "revision": "d74e16deda7891a5e6401eb776b801f7",
+    "url": "./static/media/ic_time.d74e16de.png"
+  },
+  {
+    "revision": "9076cf20c5e226c27cf664f4ac96b0e6",
+    "url": "./static/media/megaphone.9076cf20.svg"
+  },
+  {
+    "revision": "352587b0b682f25c5ccf444682904954",
+    "url": "./static/media/podium.352587b0.svg"
+  },
+  {
+    "revision": "32b02d74fa0bfe95ad1f09c644878275",
+    "url": "./static/media/poster_vk_likes.32b02d74.png"
+  },
+  {
+    "revision": "f47f5e9212e6219d85d9322317bd09b5",
+    "url": "./static/media/rocket.f47f5e92.png"
+  },
+  {
+    "revision": "e7c5d2855f61d9291d4bd41b3d16aa14",
+    "url": "./static/media/thinking.e7c5d285.svg"
+  },
+  {
+    "revision": "6de6aceab83fdc03319da6c3c5119c17",
+    "url": "./static/media/thumbs-up-sign.6de6acea.png"
   }
 ]);
