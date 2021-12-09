@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4571c55c049f1713b1d4a0ab3c541a41",
+    "revision": "4c29a8ff70dea5e4abec6d5a1f9a5086",
     "url": "./index.html"
   },
   {
-    "revision": "106acd6a0a728c3b1b96",
+    "revision": "fb086bb9b2be05fe5d55",
     "url": "./static/css/2.78f5c875.chunk.css"
   },
   {
-    "revision": "92430d73250fc6d7cb9b",
-    "url": "./static/css/main.46f25553.chunk.css"
+    "revision": "5e92f92f6adeaac134a7",
+    "url": "./static/css/main.7687ac14.chunk.css"
   },
   {
-    "revision": "106acd6a0a728c3b1b96",
-    "url": "./static/js/2.60510d77.chunk.js"
+    "revision": "fb086bb9b2be05fe5d55",
+    "url": "./static/js/2.25ba93a3.chunk.js"
   },
   {
-    "revision": "92430d73250fc6d7cb9b",
-    "url": "./static/js/main.c137c4a6.chunk.js"
+    "revision": "5e92f92f6adeaac134a7",
+    "url": "./static/js/main.b1f8c573.chunk.js"
   },
   {
     "revision": "1b437403f16bd71edadb",
@@ -78,10 +78,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c641dbee1d75892e4d88bdc31560c91b",
     "url": "./static/media/Montserrat-SemiBold.c641dbee.ttf"
-  },
-  {
-    "revision": "7752b69412bf01da3a843762f66b158a",
-    "url": "./static/media/PosterButtonIcon.7752b694.svg"
   },
   {
     "revision": "2b93e8e975cd6d488fe0e635541728f9",
@@ -152,8 +148,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/SFUIText-Regular.888e0f3f.otf"
   },
   {
-    "revision": "05d689e63417b17c9ae47c244c95781b",
-    "url": "./static/media/Story.05d689e6.png"
+    "revision": "d88ed57476396535adf548e79846c8b6",
+    "url": "./static/media/Story.d88ed574.png"
   },
   {
     "revision": "c7c4799ed1182d24a48397cf98074b7f",
@@ -188,51 +184,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/WC-Mano-Negra-Bta.d9521fb6.otf"
   },
   {
-    "revision": "b862cb2037bfd65fc0a1c182b67bae2b",
-    "url": "./static/media/bg.b862cb20.png"
+    "revision": "4e6bf8e0e4a5c0ccb95196272fde7035",
+    "url": "./static/media/bg.4e6bf8e0.png"
   },
   {
-    "revision": "7a2c0fdaed21237400eb7f1989ddaadc",
-    "url": "./static/media/camera.7a2c0fda.png"
+    "revision": "225b46d9c83d1ad57f860099adb2931f",
+    "url": "./static/media/group_avatar.225b46d9.png"
   },
   {
-    "revision": "311af7ff9e1f6aff78a252bebef717b5",
-    "url": "./static/media/date_celebrity.311af7ff.svg"
-  },
-  {
-    "revision": "bd8b20621d3d65bf78d2a94b11e94f84",
-    "url": "./static/media/ic_group.bd8b2062.png"
-  },
-  {
-    "revision": "ba2d5db014e3389128047ec562c97d48",
-    "url": "./static/media/loading.ba2d5db0.svg"
-  },
-  {
-    "revision": "b52f25e0cf8b0a929ba840c6de8c9925",
-    "url": "./static/media/loading_end.b52f25e0.svg"
-  },
-  {
-    "revision": "3aab4796e69342b5d714f0b2f54edb18",
-    "url": "./static/media/main_icon.3aab4796.png"
-  },
-  {
-    "revision": "fd6249c3c955c6e6a562f94e806ae756",
-    "url": "./static/media/poster_vk_acc_price.fd6249c3.png"
-  },
-  {
-    "revision": "b542c6facd1a92a9b257594dde260b44",
-    "url": "./static/media/result.b542c6fa.svg"
-  },
-  {
-    "revision": "640aa5f1447c29076a0db6a13e920ae9",
-    "url": "./static/media/share.640aa5f1.svg"
-  },
-  {
-    "revision": "9ce5938ed054bbf6815d66fb13145f86",
-    "url": "./static/media/story_temp.9ce5938e.jpg"
-  },
-  {
-    "revision": "1bed1aeba9b85cc70ab02b4142d365af",
-    "url": "./static/media/vk_acc_price.1bed1aeb.svg"
+    "revision": "274193a5f797f374ab7bed7c71b8f60e",
+    "url": "./static/media/megaphone (1).274193a5.svg"
   }
 ]);
